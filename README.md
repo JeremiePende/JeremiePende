@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeremie Pende 
-- 👀 I’m interested in  web development (PHP)
-- 🌱 I’m currently learning  Python and artificial intelligence
+- 👀 I’m interested in  web development
+- 🌱 I’m currently learning  The Managemnt Management, project management, artificial intelligence, high-level programming and other technologies
 - 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me https://www.linkedin.com/in/jeremie-pende-84a0b3198/
 
